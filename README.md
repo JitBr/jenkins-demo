@@ -1,2 +1,1 @@
-# jenkins-demo
-DevOps beginner project using Linux, Git, Docker, Jenkins
+# Day 1 Git & GitHub
